@@ -1,9 +1,12 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this specification, please cite it as below."
+title: "CEnTR*IMPACT CIP Specification"
+version: "v1.0.0"
+date-released: 2026-05-28
 authors:
   - family-names: Price
     given-names: Jeremy F.
     orcid: "https://orcid.org/0000-0002-6506-3526"
-title: "CEnTR*IMPACT CIP Specification"
-version: "v1.0.0"
-date-released: 2026-05-28
+repository-code: "https://github.com/CEnTRInnovations/centr-impact-cip-spec"
+url: "https://github.com/CEnTRInnovations/centr-impact-cip-spec"
+license: "CC-BY4.0"
