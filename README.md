@@ -1,6 +1,7 @@
 # CEnTR*IMPACT CIP Specification
 
 # v1.0.1 — Fellowship Report Release
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20435995.svg)](https://doi.org/10.5281/zenodo.20435995)
 
 CEnTR*IMPACT
 **Community Engaged & Transformative Research — Inclusive Measurement of Projects & Community Transformation**
