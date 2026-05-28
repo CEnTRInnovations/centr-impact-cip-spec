@@ -1,0 +1,64 @@
+# CITATION.cff
+
+cff-version: 1.2.0
+title: "CEnTR*IMPACT CIP Specification"
+message: "If you use this project, please cite the repository and relevant release version."
+type: software
+
+authors:
+
+* family-names: "Price"
+  given-names: "Jeremy F."
+  orcid: "https://orcid.org/0000-0002-0878-8049"
+
+identifiers:
+
+* type: url
+  value: "https://github.com/YOUR-ORG/centr-impact-cip-spec"
+
+repository-code: "https://github.com/CEnTRInnovations/centr-impact-cip-spec"
+
+abstract: >
+CEnTR*IMPACT (Community Engaged & Transformative Research —
+Inclusive Measurement of Projects & Community Transformation)
+is an open specification ecosystem for describing, evaluating,
+visualizing, and communicating community-engaged research
+projects and networks. The specification includes metric
+definitions, schemas, governance structures, visualization
+standards, and reference implementations designed to support
+reflective, participatory, and contextually grounded approaches
+to community-engaged scholarship.
+
+keywords:
+
+* community-engaged research
+* community engagement
+* evaluation
+* responsible metrics
+* participatory evaluation
+* social network analysis
+* open infrastructure
+* research metrics
+* CBPR
+* ontology
+* specification
+
+license: "CC-BY-4.0 AND MIT"
+
+version: "1.0.0"
+
+date-released: 2025-01-01
+
+preferred-citation:
+type: report
+authors:
+- family-names: "Price"
+given-names: "Jeremy F."
+title: >
+CEnTR*Impact: Community Engaged & Transformative Research —
+Inclusive Measurement of Projects & Community Transformation
+year: 2024
+publisher: "CUMU-Collaboratory Fellowship Report"
+notes: >
+Foundational conceptual and methodological artifact corresponding
+to the v1.0.0 generation of the CEnTR*IMPACT ecosystem.
