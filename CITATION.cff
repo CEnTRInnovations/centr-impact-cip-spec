@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this specification, please cite it as below."
 title: "CEnTR*IMPACT CIP Specification"
-version: "v1.0.0"
+version: "v1.0.1"
 date-released: 2026-05-28
 authors:
   - family-names: Price
