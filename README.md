@@ -62,7 +62,7 @@ and NOT as:
 
 This repository uses semantic versioning.
 
-## v1.x.x — Fellowship Report Generation
+## v1.0.0 — Fellowship Report Generation
 
 The v1 generation refers to the original published framework and associated prototype formulations.
 
@@ -109,7 +109,7 @@ Citation details will be expanded in future releases.
 
 # License
 
-[Insert chosen license here]
+[Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
